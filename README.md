@@ -4,7 +4,7 @@
 
 LessonSpindle helps secondary schools, tutorial centres, exam preparation providers and education networks find the misconceptions behind wrong answers. AI reads students' written working and question-level results and maps likely reasoning errors against explicit rubrics. It then suggests revision groups and practice drawn from approved materials. Teachers review every interpretation and approve all feedback before it is shared.
 
-> LessonSpindle is a proposed product. Pricing is illustrative and the prototype uses a fictional class. Founded by **Adesua Osagie** with co-founder **Ibrahim Danjuma**. The domain `lessonspindle.com` and the email `adesua@lessonspindle.com` are placeholders; confirm them before launch. Organisation types named on the site are prospective customers with no implied affiliation.
+> LessonSpindle is a proposed product. Pricing is illustrative and the prototype uses a fictional class. Founded by **Adesua Osagie** with co-founder **Ibrahim Danjuma**. The domain `lessonspindle.site` and the email `adesua@lessonspindle.site` are placeholders; confirm them before launch. Organisation types named on the site are prospective customers with no implied affiliation.
 
 ## Design
 

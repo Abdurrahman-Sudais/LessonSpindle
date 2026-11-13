@@ -5,8 +5,8 @@ const site = {
   slug: 'lessonspindle',
   tagline: 'Show teachers where understanding breaks down.',
   about: 'LessonSpindle helps schools and tutorial centres find the misconceptions behind wrong answers. AI reads written working and question-level results, then suggests revision groups and practice from approved materials — for teachers to review.',
-  url: 'https://lessonspindle.com',
-  email: 'adesua@lessonspindle.com',
+  url: 'https://lessonspindle.site',
+  email: 'adesua@lessonspindle.site',
   team: [
     {name: 'Adesua Osagie', role: 'Founder/CEO', initials: 'AO', bio: 'Adesua taught secondary mathematics and spent too many evenings working out why half a class got the same question wrong in different ways. She founded LessonSpindle and leads product and school partnerships.'},
     {name: 'Ibrahim Danjuma', role: 'Co-founder', initials: 'ID', bio: 'Ibrahim leads the platform: reading scanned working, classifying likely reasoning errors against explicit rubrics, and making every interpretation easy for a teacher to check.'},
